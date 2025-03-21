@@ -1,6 +1,6 @@
-streamlit
+
 vaderSentiment
-requests
+
 pandas
 yfinance
 matplotlib
@@ -8,3 +8,5 @@ streamlit==1.43.0
 pandas==2.2.3
 beautifulsoup4==4.13.3
 requests==2.31.0
+selenium==4.12.0
+chromedriver-binary==114.0.5735.90
