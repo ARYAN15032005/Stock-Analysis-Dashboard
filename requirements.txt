@@ -1,0 +1,10 @@
+streamlit
+vaderSentiment
+requests
+pandas
+yfinance
+matplotlib
+streamlit==1.43.0
+pandas==2.2.3
+beautifulsoup4==4.13.3
+requests==2.31.0
