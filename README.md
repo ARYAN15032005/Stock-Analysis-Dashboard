@@ -5,6 +5,8 @@
 
 This Stock Analysis Dashboard is a powerful web application built using Streamlit. It provides deep insights into stock data, including sentiment analysis, interactive visualizations, institutional ownership details, and Google Trends data. The dashboard is designed to help traders, investors, and financial analysts make informed decisions with real-time and historical stock market data.
 
+Site Preview : https://stock-analysis-dashboard-nr8pgmhjajzwbjsofuiw23.streamlit.app/
+
 ## **✨ Features**
 
 ✅ Sentiment Analysis: Analyze sentiment from news and social media related to stocks.  
